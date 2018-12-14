@@ -1,0 +1,8 @@
+ro.product.brand=LYF
+ro.product.name=F90M
+ro.product.device=F90M
+ro.build.product=msm8909_512
+#ro.treble.enabled=flase
+#sys.usb.controller=a800000.dwc3
+#sys.usb.rndis.func.name=rndis_bam
+#sys.usb.rmnet.func.name=rmnet_bam
